@@ -1,31 +1,10 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Conf Debug VSCODE
 
 * gem install ruby-debug-ide
-
 * gem install debase
 
-* bundle exec guard rodar live-reload so guard init livereload
-# rails-livereload
+# GUARD  live-reload RUN
+ * guard init livereload
+ * guard
+ * rails s
