@@ -1,13 +1,22 @@
+### Rails livereload introdução
 
-# Conf Debug VSCODE
+Livereload ajuda no desenvolvimento uma vez que não precisamos ficar dando refresh no, quando modificamos algo código da 
+aplicação. Este projeto mostra à configuração inicial do guard livereload. Para mais informações acesse o link do
+[Guard](https://guardgem.org/)
 
-* gem install ruby-debug-ide
-* gem install debase
+### Download livereload browser plugin
+```
+[livereload-chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
+[livereload-firefox](https://addons.mozilla.org/pt-BR/firefox/addon/livereload-web-extension/)
+```
 
-# GUARD  live-reload RUN
- * guard init livereload
- * guard
- * rails s
+###  Guard livereload run
+```
+  1. criar o [Guardfile](https://github.com/mayribeiro/rails-livereload/blob/master/Guardfile) 
+  1. guard init livereload
+  2. guard
+  3. rails s
+```
 
 ### License
 
