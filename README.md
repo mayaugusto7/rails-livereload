@@ -5,18 +5,17 @@ aplicação. Este projeto mostra à configuração inicial do guard livereload. 
 [Guard](https://guardgem.org/)
 
 ### Download livereload browser plugin
-```
-[livereload-chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
-[livereload-firefox](https://addons.mozilla.org/pt-BR/firefox/addon/livereload-web-extension/)
-```
+
+  1. [livereload-chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
+  2. [livereload-firefox](https://addons.mozilla.org/pt-BR/firefox/addon/livereload-web-extension/)
+
 
 ###  Guard livereload run
-```
+
   1. criar o [Guardfile](https://github.com/mayribeiro/rails-livereload/blob/master/Guardfile) 
-  1. guard init livereload
-  2. guard
-  3. rails s
-```
+  2. guard init livereload
+  3. guard
+  4. rails s
 
 ### License
 
