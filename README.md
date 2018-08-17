@@ -1,6 +1,6 @@
 ### Rails livereload introdução
 
-Livereload ajuda no desenvolvimento uma vez que não precisamos ficar dando refresh no, quando modificamos algo código da 
+Livereload ajuda no desenvolvimento uma vez que não precisamos ficar dando refresh no browser, quando modificamos o código da 
 aplicação. Este projeto mostra à configuração inicial do guard livereload. Para mais informações acesse o link do
 [Guard](https://guardgem.org/)
 
